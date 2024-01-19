@@ -1,0 +1,9 @@
+.each-skill {
+  width: 30vw;
+  display: flex;
+  margin-right: 10px;
+  margin-bottom: 30px;
+}
+.skills-image {
+  width: 20%;
+}

@@ -1,0 +1,12 @@
+.similar-product-item {
+  width: 30%;
+  background-color: #64748b;
+  margin: 20px;
+  border-radius: 20px;
+  height: 50vh;
+}
+.similar-website-logo {
+  width: 4vw;
+  height: 10vh;
+  margin-right: 10px;
+}
